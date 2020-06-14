@@ -1,8 +1,3 @@
-/**
- * COMP 2120 - Object Oriented Programming in Java
- * By. Tom Cieslukowski
- * Due Date: September 26, 2019
- */
 
 import java.util.Scanner;
 import java.lang.Math;
